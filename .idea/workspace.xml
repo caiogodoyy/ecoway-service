@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f22e622e-ae35-43c0-a6f6-87d1b930f3f1" name="Changes" comment="First Commit">
+    <list default="true" id="f22e622e-ae35-43c0-a6f6-87d1b930f3f1" name="Changes" comment="improving DataAgent">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Building.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Building.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/DataAgent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DataAgent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Trash.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Trash.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,11 +67,19 @@
       <option name="project" value="LOCAL" />
       <updated>1678232626279</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="improving DataAgent">
+      <created>1678245847010</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1678245847010</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="First Commit" />
+    <MESSAGE value="improving DataAgent" />
+    <option name="LAST_COMMIT_MESSAGE" value="improving DataAgent" />
   </component>
 </project>
