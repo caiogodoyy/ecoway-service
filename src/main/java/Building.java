@@ -2,14 +2,14 @@ public class Building {
     private int buildingCode;
     private String name;
     private String address;
-    private String neighborhood;
+    private String region;
     private int numApartments;
 
-    public Building(int buildingCode, String name, String address, String neighborhood, int numApartments) {
+    public Building(int buildingCode, String name, String address, String region, int numApartments) {
         this.buildingCode = buildingCode;
         this.name = name;
         this.address = address;
-        this.neighborhood = neighborhood;
+        this.region = region;
         this.numApartments = numApartments;
     }
 
@@ -37,12 +37,12 @@ public class Building {
         this.address = address;
     }
 
-    public String getNeighborhood() {
-        return neighborhood;
+    public String getRegion() {
+        return region;
     }
 
-    public void setNeighborhood(String neighborhood) {
-        this.neighborhood = neighborhood;
+    public void setRegion(String region) {
+        this.region = region;
     }
 
     public int getNumApartments() {

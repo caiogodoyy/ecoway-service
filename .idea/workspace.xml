@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f22e622e-ae35-43c0-a6f6-87d1b930f3f1" name="Changes" comment="improving DataAgent">
+    <list default="true" id="f22e622e-ae35-43c0-a6f6-87d1b930f3f1" name="Changes" comment="adding updateCurrentCapacity method in DataAgent">
+      <change afterPath="$PROJECT_DIR$/src/main/java/DialogAgent.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Building.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Building.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/DataAgent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DataAgent.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -74,12 +77,20 @@
       <option name="project" value="LOCAL" />
       <updated>1678245847010</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="adding updateCurrentCapacity method in DataAgent">
+      <created>1678277555227</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1678277555227</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First Commit" />
     <MESSAGE value="improving DataAgent" />
-    <option name="LAST_COMMIT_MESSAGE" value="improving DataAgent" />
+    <MESSAGE value="adding updateCurrentCapacity method in DataAgent" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding updateCurrentCapacity method in DataAgent" />
   </component>
 </project>
